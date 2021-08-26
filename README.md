@@ -31,4 +31,6 @@ https://www.soapui.org/downloads/soapui/
 bash SoapUI-x64-5.6.0.sh 
 ```
 
-A partir daí uma interface gráfica será aberta para prosseguir com a instalação.
+A partir daí uma interface gráfica será aberta para prosseguir com a instalação:
+
+https://www.soapui.org/getting-started/installing-soapui/installing-on-linux-or-unix/
